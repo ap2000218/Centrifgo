@@ -49,3 +49,6 @@ Try our [demo instance](https://centrifugo.herokuapp.com/) on Heroku (password `
 ### Simplified scheme
 
 ![scheme](https://raw.githubusercontent.com/centrifugal/documentation/master/assets/images/scheme.png)
+
+
+### END
